@@ -8,7 +8,7 @@ interface SEOProps {
   image?: string;
 }
 
-const SITE_URL = "https://yaarwin.example.com";
+const SITE_URL = "https://yaarwinn.live/";
 
 export const SEO = ({ title, description, path, schema, image = "/og-image.jpg" }: SEOProps) => {
   const url = `${SITE_URL}${path}`;
