@@ -54,9 +54,9 @@ const Home = () => {
             <h1 className="mt-5 font-display text-4xl sm:text-5xl lg:text-6xl font-extrabold leading-[1.05]">
   YaarWin Login & Register – Colour Prediction Game Platform
 </h1>
-            <p className="mt-5 text-lg text-muted-foreground max-w-xl leading-relaxed">
-              <strong className="text-foreground">YaarWin</strong> brings card games, arcade titles, tournaments and a transparent reward system into a single, professionally managed platform — built for players who value fairness and clarity.
-            </p>
+           <p className="mt-5 text-lg text-muted-foreground max-w-xl leading-relaxed">
+  Login or register on <strong className="text-foreground">YaarWin</strong> to play colour prediction games and earn money online. Fast withdrawal, bonuses and a secure platform.
+</p>
             <div className="mt-8 flex flex-wrap gap-3">
               <Button asChild size="lg" className="bg-gradient-primary hover:opacity-95 shadow-glow">
                 <Link to="/yaarwin-register">Create free account <ArrowRight className="ml-1 h-4 w-4" /></Link>
