@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://yaarwinn.live/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://yaarwinn.live/about-us</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://yaarwinn.live/contact-us</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Auth -->
+  <url>
+    <loc>https://yaarwinn.live/yaarwin-login</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://yaarwinn.live/yaarwin-register</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Core Features -->
+  <url>
+    <loc>https://yaarwinn.live/games</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://yaarwinn.live/how-to-play</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://yaarwinn.live/gift-code</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://yaarwinn.live/gift-code-guide</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://yaarwinn.live/download-app</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Blog -->
+  <url>
+    <loc>https://yaarwinn.live/blog</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Legal -->
+  <url>
+    <loc>https://yaarwinn.live/privacy-policy</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://yaarwinn.live/terms-and-conditions</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://yaarwinn.live/disclaimer</loc>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
