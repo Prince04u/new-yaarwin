@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { ArrowRight, Award, ShieldCheck, Sparkles, Users, Zap, Trophy, Gift, Smartphone, BookOpen, Send, BadgeCheck } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Layout } from "@/components/site/Layout";
-import { SEO, orgSchema, websiteSchema, faqSchema, breadcrumbSchema } from "@/components/site/SEO";
+import { SEO, orgSchema, websiteSchema, faqSchema, breadcrumbSchema } from "@/components/site/SEO"; 
 import { FAQ } from "@/components/site/FAQ";
 import { CTASection } from "@/components/site/CTASection";
 import logo from "@/assets/yaarwin-logo.jpg";
