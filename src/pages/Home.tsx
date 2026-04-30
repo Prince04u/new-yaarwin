@@ -35,8 +35,8 @@ const Home = () => {
   return (
     <Layout>
       <SEO
-        title="YaarWin Login & Register — The trusted home for colour prediction & skill gaming"
-        description="YaarWin Login & Register: the trusted home for colour prediction and skill gaming. Explore games, claim YaarWin gift codes and join a verified prediction community."
+        title="YaarWin – Colour Prediction Game | Play & Earn Money Online"
+        description="Play YaarWin colour prediction game and earn money daily. Fast withdrawal, bonus rewards, and secure platform. Join now and start winning online."
         path="/"
         schema={[orgSchema, websiteSchema, faqSchema(faqs), breadcrumbSchema([{ name: "Home", url: "/" }])]}
       />
