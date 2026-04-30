@@ -52,8 +52,8 @@ const Home = () => {
               <BadgeCheck className="h-3.5 w-3.5" /> Play · Win · Earn
             </span>
             <h1 className="mt-5 font-display text-4xl sm:text-5xl lg:text-6xl font-extrabold leading-[1.05]">
-              <span className="text-gradient">YaarWin Login & Register</span> — the trusted home for colour prediction & skill gaming
-            </h1>
+  YaarWin Login & Register – Colour Prediction Game Platform
+</h1>
             <p className="mt-5 text-lg text-muted-foreground max-w-xl leading-relaxed">
               <strong className="text-foreground">YaarWin</strong> brings card games, arcade titles, tournaments and a transparent reward system into a single, professionally managed platform — built for players who value fairness and clarity.
             </p>
